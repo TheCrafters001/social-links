@@ -10,7 +10,7 @@ lang: "en"
 title: "Buzzy Bee - TheCrafters001"
 
 # Avatar image path
-avatar: "./images/Bronze.png"
+avatar: "./images/pfp.gif"
 
 # Name section text
 name: "TheCrafters001"
@@ -65,40 +65,10 @@ links:
 # target: _blank opens in a new tab, _self opens in the same frame
 socials:
   - social:
-      icon: "fa-brands fa-medium"
-      url: "https://blog.zhgchg.li"
-      title: "ZhgChgLi's Medium"
-      alt: "ZhgChgLi's Medium"
-      target: "_blank"
-  - social:
       icon: "fa-brands fa-github"
-      url: "https://github.com/ZhgChgLi"
-      title: "ZhgChgLi's GitHub"
-      alt: "ZhgChgLi's GitHub"
-      target: "_blank"
-  - social:
-      icon: "fa-brands fa-twitter"
-      url: "https://twitter.com/zhgchgli"
-      title: "ZhgChgLi's Twitter"
-      alt: "ZhgChgLi's Twitter"
-      target: "_blank"
-  - social:
-      icon: "fa-brands fa-linkedin"
-      url: "https://www.linkedin.com/in/zhgchgli/"
-      title: "ZhgChgLi's LinkedIn"
-      alt: "ZhgChgLi's LinkedIn"
-      target: "_blank"
-  - social:
-      icon: "fa-brands fa-instagram"
-      url: "https://www.instagram.com/zhgchgli/"
-      title: "Instagram"
-      alt: "ZhgChgLi's Instagram"
-      target: "_blank"
-  - social:
-      icon: "fa-solid fa-envelope"
-      url: "mailto:zhgchgli@gmail.com"
-      title: "Email: zhgchgli@gmail.com"
-      alt: "zhgchgli@gmail.com"
+      url: "https://github.com/TheCrafters001"
+      title: "TheCrafters001's GitHub"
+      alt: "TheCrafters001's GitHub"
       target: "_blank"
 
 # Footer text
@@ -108,4 +78,4 @@ footer: >
 # Footer copyright message
 # Linkyee is a 100% free, open-source project—feel free to modify the copyright message as you like. :)
 copyright: >
-  © 2025  <a href="https://thecrafters001.com" target="_blank">TheCrafters001</a>. Powered by <a href="https://github.com/ZhgChgLi/linkyee" target="_blank">linkyee</a>
+  © 2025  <a href="https://thecrafters001.com" target="_blank">TheCrafters001</a>. Powered by <a href="https://github.com/ZhgChgLi/linkyee" target="_blank">linkyee</a>. Profile Picture by <a href="https://toyhou.se/CryptidsCrypt">Crypt</a>.
